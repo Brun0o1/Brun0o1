@@ -2,8 +2,7 @@
 
 - 🌱 I’m currently learning CS50’s Introduction to Computer Science
 - ⚡ Fun fact: I'm currently working as a waiter and bartender
-- 
-[![Bruno's GitHub stats]
+
 <div align="center">
   <a href="https://github.com/Brun0o1">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=Brun0o1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
